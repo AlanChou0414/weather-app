@@ -4,7 +4,7 @@ import axios from 'axios'
 // type
 import { WeatherData } from '../type'
 
-const useFetch = () => {
+const useFetch = (url: string) => {
   const [apiData, setApiData] = useState<WeatherData | undefined>()
   const [query, setQuery] = useState('')
   const [isLoading, setIsLoading] = useState(false)
