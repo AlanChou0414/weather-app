@@ -3,8 +3,7 @@ Vite + React + TypeScript
 
 ### :camera: Screenshots
 
-
-<img src="https://user-images.githubusercontent.com/99056343/222062423-15b561a7-056c-4540-8cf9-adeb4fe7b562.gif">
+<img src="https://user-images.githubusercontent.com/99056343/224233388-8f4f2aa7-f75f-4d9c-a973-9d44014509c3.gif">
 
 
 ## :star2: About the Project
